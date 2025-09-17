@@ -17,7 +17,7 @@ const Footer = () => {
           floating
           className='m-1'
           style={{ backgroundColor: '#3b5998' }}
-          href='https://www.facebook.com/shivanshu.mishra.33234/'
+          href='https://www.facebook.com/'
           role='button'
         >
           <MDBIcon fab icon='facebook-f' />
@@ -27,7 +27,7 @@ const Footer = () => {
           floating
           className='m-1'
           style={{ backgroundColor: '#55acee' }}
-          href='https://twitter.com/Shivanshu_23'
+          href='https://x.com/'
           role='button'
         >
           <MDBIcon fab icon='twitter' />
@@ -37,7 +37,7 @@ const Footer = () => {
           floating
           className='m-1'
           style={{ backgroundColor: '#dd4b39' }}
-          href='mailto:mishrashivashu2004@gmail.com'
+          href='mailto:ritiksingh14671@gmail.com'
           role='button'
         >
           <MDBIcon fab icon='google' />
@@ -46,7 +46,7 @@ const Footer = () => {
           floating
           className='m-1'
           style={{ backgroundColor: '#ac2bac' }}
-          href='https://www.instagram.com/shivanshu.mishra.23/'
+          href='https://www.instagram.com/ritiksinghrds'
           role='button'
         >
           <MDBIcon fab icon='instagram' />
@@ -56,7 +56,7 @@ const Footer = () => {
           floating
           className='m-1'
           style={{ backgroundColor: '#0082ca' }}
-          href='https://www.linkedin.com/in/shivanshu-mishra-9baab3229/'
+          href='https://www.linkedin.com/in/ritik-singh-253425203/'
           role='button'
         >
           <MDBIcon fab icon='linkedin-in' />
@@ -66,7 +66,7 @@ const Footer = () => {
           floating
           className='m-1'
           style={{ backgroundColor: '#333333' }}
-          href='https://github.com/Shivanshumishra23'
+          href='https://github.com/ritiksingh14671'
           role='button'
         >
           <MDBIcon fab icon='github' />
@@ -75,9 +75,9 @@ const Footer = () => {
     </MDBContainer>
 
     <div className='text-center p-3 gradient1 ' style={{ backgroundColor: 'rgba(255,255,255, 0.5)' }}>
-      © 2023 Copyright :
+      © 2025 Copyright : 
       <a className='text-white' href=''>
-       Shivanshu Mishra
+       Ritik Singh
       </a>
     </div>
   </MDBFooter>
